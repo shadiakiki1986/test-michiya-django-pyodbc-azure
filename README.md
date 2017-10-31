@@ -1,5 +1,5 @@
 # test-michiya-django-pyodbc-azure
-Example django project showing issue with michiya/django-pyodbc-azure
+Example django project showing issue with [michiya/django-pyodbc-azure#116](https://github.com/michiya/django-pyodbc-azure/issues/116)
 
 ## Installation
 
