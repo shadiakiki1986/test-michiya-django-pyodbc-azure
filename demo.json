@@ -1,0 +1,1 @@
+[{"model": "app.level1", "pk": 1, "fields": {}}, {"model": "app.level2", "pk": 1, "fields": {"l1": 1}}, {"model": "app.level3", "pk": 1, "fields": {"l2": 1}}]
