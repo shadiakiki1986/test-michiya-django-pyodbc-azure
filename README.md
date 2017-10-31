@@ -11,13 +11,17 @@ Example django project showing issue with michiya/django-pyodbc-azure
 
 1. Do initial test on sqlite3 (will work)
 
+```bash
     ./manage.py migrate # initial migration
     ./manage.py createsuperuser
     ./manage.py loaddata --app app demo.json # load sample data
+```
 
 2. Launch
 
+```bash
     ./manage.py runserver # serve project
+```
 
 3. Browse to admin "level 2" change page at http://localhost/admin/app/level3/1/change/
 
